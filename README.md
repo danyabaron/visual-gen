@@ -3,7 +3,7 @@ My 2nd creative project for DIG 5831, Computational Media. A creative visual wor
 
 # Project Summary / How to Run
 
-This project is exploring how generative imaging AI interprets human emotions. The pictures produced can be viewed in the video at the project website. Website can be found at: https://danyabaron.github.io/visual-gen/
+This project is exploring how generative imaging AI interprets human emotions. The pictures produced can be viewed in the video in the README below, and at the project website. Website can be found at: https://danyabaron.github.io/visual-gen/
 
 # Tools Used
 
