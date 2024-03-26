@@ -12,6 +12,10 @@ I primarily used DreamStudio (https://beta.dreamstudio.ai/), and Adobe Firefly (
 # Image Slideshow
 
 
+https://github.com/danyabaron/visual-gen/assets/112504651/91a74b9b-cebb-4c8d-ba23-efeedfb4acea
+
+
+
 # Artist Statement
 
 In this project, my goal was to explore how AI perceives human emotions, and how the AI relays that through image generation. I focused on emotions that may have been a bit more difficult than just "happy" or "sad", and explored more complicated emotions such as determination, frustration, inspiration, surprise, and more. I wanted to create art that portrayed our emotions in a way that AI viewed. Some of images that I picked may have an underexaggeration of the emotion, or overexaggeration of the emotion. I did this on purpose to show how AI perceives us and our emotions. I have always found art to represent the human experience, almost acting like a mirror that reflects towards us. Growing up, I often frequented art museums with my family, so art has been a very integral part of my life. I have to be honest, I don't love AI generated art, simply because I feel it lacks the depth of representing human emotions. I find that AI art is really good for digital imaging for maybe websites, video games, and other animated imagesthat could be used as a tool for someone's digital projects. But for representing the human condition, and the human experiences and emotions, I personally feel that AI cannot produce the same quality type of art that humans can. Art is a way for us to see our emotions displayed either in movies, text, and images. I just feel that since AI is a machine, it cannot properly articulate the very complex emotions and feelings that we as humans have. That's why I explored this for my creative project, to test my hypothesis on how AI views our emotions, and creates art about our emotions. I also looked at some artist's artwork in the AI sphere, and became inspired by Mario Klingemann's "Appropriate Response", which was done using a custom mqade GPT-2 model.
