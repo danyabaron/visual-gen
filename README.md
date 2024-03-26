@@ -11,8 +11,9 @@ I primarily used DreamStudio (https://beta.dreamstudio.ai/), and Adobe Firefly (
 
 # Image Slideshow
 
+[![image-slideshow](https://github.com/danyabaron/visual-gen/assets/112504651/91a74b9b-cebb-4c8d-ba23-efeedfb4acea)](https://github.com/danyabaron/visual-gen/assets/112504651/91a74b9b-cebb-4c8d-ba23-efeedfb4acea)
 
-https://github.com/danyabaron/visual-gen/assets/112504651/91a74b9b-cebb-4c8d-ba23-efeedfb4acea
+
 
 
 
